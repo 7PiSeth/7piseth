@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/workspace/static/css/main.ffee73f5.css",
-    "main.js": "/workspace/static/js/main.bfed1b18.js",
-    "static/media/dictionary.png": "/workspace/static/media/dictionary.d8faa18a6fad09f970c9.png",
-    "static/media/khlakhlouk.png": "/workspace/static/media/khlakhlouk.4d79e9442d17724ca487.png",
-    "static/media/prediction.png": "/workspace/static/media/prediction.2740e0a5cfee6208c3a1.png",
-    "static/media/portfolio.png": "/workspace/static/media/portfolio.267b4821e402acae29d9.png",
-    "static/media/dev-util.png": "/workspace/static/media/dev-util.55d583f763a17fd5c8a2.png",
-    "static/media/music.png": "/workspace/static/media/music.116ad8b67ff3316e8a28.png",
-    "static/media/it-phnomden.jpg": "/workspace/static/media/it-phnomden.35cbb184a907289219fa.jpg",
-    "static/media/calculator.png": "/workspace/static/media/calculator.a969410dda8bfde359a0.png",
-    "index.html": "/workspace/index.html",
-    "main.ffee73f5.css.map": "/workspace/static/css/main.ffee73f5.css.map",
-    "main.bfed1b18.js.map": "/workspace/static/js/main.bfed1b18.js.map"
+    "main.css": "/static/css/main.ffee73f5.css",
+    "main.js": "/static/js/main.4e7eecac.js",
+    "static/media/dictionary.png": "/static/media/dictionary.d8faa18a6fad09f970c9.png",
+    "static/media/khlakhlouk.png": "/static/media/khlakhlouk.4d79e9442d17724ca487.png",
+    "static/media/prediction.png": "/static/media/prediction.2740e0a5cfee6208c3a1.png",
+    "static/media/portfolio.png": "/static/media/portfolio.267b4821e402acae29d9.png",
+    "static/media/dev-util.png": "/static/media/dev-util.55d583f763a17fd5c8a2.png",
+    "static/media/music.png": "/static/media/music.116ad8b67ff3316e8a28.png",
+    "static/media/it-phnomden.jpg": "/static/media/it-phnomden.35cbb184a907289219fa.jpg",
+    "static/media/calculator.png": "/static/media/calculator.a969410dda8bfde359a0.png",
+    "index.html": "/index.html",
+    "main.ffee73f5.css.map": "/static/css/main.ffee73f5.css.map",
+    "main.4e7eecac.js.map": "/static/js/main.4e7eecac.js.map"
   },
   "entrypoints": [
     "static/css/main.ffee73f5.css",
-    "static/js/main.bfed1b18.js"
+    "static/js/main.4e7eecac.js"
   ]
 }
