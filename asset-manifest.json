@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ffee73f5.css",
-    "main.js": "/static/js/main.4e7eecac.js",
+    "main.css": "/static/css/main.fed5ed2b.css",
+    "main.js": "/static/js/main.34e05d6f.js",
     "static/media/dictionary.png": "/static/media/dictionary.d8faa18a6fad09f970c9.png",
     "static/media/khlakhlouk.png": "/static/media/khlakhlouk.4d79e9442d17724ca487.png",
     "static/media/prediction.png": "/static/media/prediction.2740e0a5cfee6208c3a1.png",
@@ -11,11 +11,11 @@
     "static/media/it-phnomden.jpg": "/static/media/it-phnomden.35cbb184a907289219fa.jpg",
     "static/media/calculator.png": "/static/media/calculator.a969410dda8bfde359a0.png",
     "index.html": "/index.html",
-    "main.ffee73f5.css.map": "/static/css/main.ffee73f5.css.map",
-    "main.4e7eecac.js.map": "/static/js/main.4e7eecac.js.map"
+    "main.fed5ed2b.css.map": "/static/css/main.fed5ed2b.css.map",
+    "main.34e05d6f.js.map": "/static/js/main.34e05d6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffee73f5.css",
-    "static/js/main.4e7eecac.js"
+    "static/css/main.fed5ed2b.css",
+    "static/js/main.34e05d6f.js"
   ]
 }
