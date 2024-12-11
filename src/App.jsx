@@ -65,15 +65,15 @@ const App = () => {
   return (
     <div>
       <TopBar />
-      <div className="max-w-screen-lg h-screen mx-auto px-5 flex items-center justify-center">
+      <div className="max-w-screen-lg md:w-full min-h-screen mx-auto flex items-center">
       <div data-aos="fade-down" data-aos-offset="100"
-          className="grid grid-cols-2 gap-3 md:grid-cols-5">
+          className="grid grid-cols-3 gap-3 md:grid-cols-5">
           {
             projects.map(({ id, imgSrc, demoLink, sourceLink }) => (
               <div key={id}
-                className="rounded-2xl p-4 text-center bg-[#F4F6F8] dark:bg-[#161B22] flex flex-col items-center"
+                className="rounded-2xl md:p-4 text-center bg-[#F4F6F8] dark:bg-[#161B22] flex flex-col items-center"
               >
-                <img src={imgSrc} alt="Calculator.png"
+                <img src={imgSrc} alt="not found img file"
                 className="h-40 object-contain"
                 />
                 <div className="flex space-x-6" id="check-out">
