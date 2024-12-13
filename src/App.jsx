@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import TopBar from "./components/TopBar";
 import Footer from "./components/Footer";
 import calculator from "./assets/project/calculator.png";
-import itphnomden from "./assets/project/it-phnomden.jpg";
+import itphnomden from "./assets/project/it-phnomden.png";
 import portfolio from "./assets/project/portfolio.png";
 import khlakhlouk from "./assets/project/khlakhlouk.png";
 import dictionary from "./assets/project/dictionary.png";
@@ -65,18 +65,18 @@ const App = () => {
   return (
     <div>
       <TopBar />
-      <div className="max-w-screen-lg md:w-full min-h-screen mx-auto flex items-center">
+      <div className="max-w-screen-lg md:w-full mx-auto flex items-center md:min-h-screen md:pt-0 pt-[60px]">
       <div data-aos="fade-down" data-aos-offset="100"
-          className="grid grid-cols-3 gap-3 md:grid-cols-5">
+          className="grid grid-cols-3 md:gap-2 gap-1 md:grid-cols-5 m-1">
           {
             projects.map(({ id, imgSrc, demoLink, sourceLink }) => (
               <div key={id}
-                className="rounded-2xl md:p-4 text-center bg-[#F4F6F8] dark:bg-[#161B22] flex flex-col items-center"
+                className="rounded-2xl text-center bg-[#F4F6F8] dark:bg-[#161B22] flex flex-col items-center p-2"
               >
                 <img src={imgSrc} alt="not found img file"
                 className="h-40 object-contain"
                 />
-                <div className="flex space-x-6" id="check-out">
+                <div className="flex w-full justify-evenly font-preahvihear" id="check-out">
                   <a href={demoLink} target="_blank" rel="noopener noreferrer">Live</a>
                   <a href={sourceLink} target="_blank" rel="noopener noreferrer">Code</a>
                 </div>
